@@ -1,4 +1,5 @@
 # Referencias
+Minhas referencias de pesquisas e pessoas importantes para os estudos em geral
 
 #MapReduce
 https://pt.wikipedia.org/wiki/MapReduce
