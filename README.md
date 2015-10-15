@@ -1,7 +1,7 @@
 # Referencias
 Minhas referencias de pesquisas e pessoas importantes para os estudos em geral
 
-#[Linguagens]
+#[Linguagens]{
 www.pragprog.com
 https://leanpub.com/
 
@@ -16,6 +16,10 @@ bostonrb.com
 railscasts.com
 Ruby Koans
 
+#Python
+https://osantana.me/curso-de-python-e-django/resources/crashcourse_pydjango.pdf
+
+}
 #MapReduce
 https://pt.wikipedia.org/wiki/MapReduce
 
